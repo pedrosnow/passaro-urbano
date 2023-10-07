@@ -47,6 +47,23 @@
                 {"url": "/assets/ofertas/3/img5.jpg"},
                 {"url": "/assets/ofertas/3/img6.jpg"}
             ]
+        },
+        {
+            "id": 5,
+            "categoria": "diversao",
+            "titulo": "Kart",
+            "descricao_oferta": "Bateria de Kart de 30 minutos.",
+            "anunciante": "Speed Kart",
+            "valor": 54.90,
+            "destaque": true,
+            "imagens": [
+                {"url": "/assets/ofertas/3/img2.jpg"},
+                {"url": "/assets/ofertas/3/img1.jpg"},
+                {"url": "/assets/ofertas/3/img5.jpg"},
+                {"url": "/assets/ofertas/3/img3.jpg"},
+                {"url": "/assets/ofertas/3/img4.jpg"},
+                {"url": "/assets/ofertas/3/img6.jpg"}
+            ]
         }
     ]
 }
